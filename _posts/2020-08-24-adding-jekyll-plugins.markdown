@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding a plugin to Jekyll"
-date:   2020-08-24
+date:   2020-08-24 17:00:00 +10:00
 categories: jekyll github-pages plugins jemoji
 ---
 

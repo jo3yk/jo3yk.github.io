@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up Jekyll and GitHub pages"
-date:   2020-08-24
+date:   2020-08-24 12:00:00 +10:00
 categories: jekyll github-pages
 ---
 

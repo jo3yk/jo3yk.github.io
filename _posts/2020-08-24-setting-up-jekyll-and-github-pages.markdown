@@ -5,7 +5,7 @@ date:   2020-08-24
 categories: jekyll github-pages
 ---
 
-Welcome to Rubber Duck! My first post is a bit meta - it's about how this blog was set up. I chose to host it on GitHub Pages and therefore use Jekyll to generate the site. Why? Once the setup is complete, I can add a new post via a simple markdown file, and all I need to do is commit it - GitHub will automatically build and redeploy the site. Easy peasy! Plus, it's free :D 
+Welcome to Rubber Duck! My first post is a bit meta - it's about how this blog was set up. I chose to host it on GitHub Pages and therefore use Jekyll to generate the site. Why? Once the setup is complete, I can add a new post via a simple markdown file, and all I need to do is commit it - GitHub will automatically build and redeploy the site. Easy peasy! Plus, it's free :smile:
 
 So, without further ado: how to set up a basic Jekyll-generated blog on GitHub pages.
 
